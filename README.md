@@ -1,3 +1,9 @@
+
+<div align="center" dir="auto">
+<p dir="auto"><h3> Language: <strong>中文</strong> · <a href="readme/README_en.md">English</a> </p>
+</h3>
+</div>
+
 ## 简介
 
 - 训练演示notebook以及网络结构的定义在```./train```目录。播放器代码在```./user_interface```，播放器演示在```./demo```中。
