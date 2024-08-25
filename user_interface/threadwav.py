@@ -57,7 +57,7 @@ class WavThread(QThread):  #
              
     def get_wav(self):
         pm = get_midis(self.pr  > 0.5, self.program_nums, self.is_drum, self.tempo)
-        midi_audio = pm.fluidsynth(fs = 44100, sf2_path="./soundfont/FatBoy-v0.786.sf2")
+        midi_audio = pm.fluidsynth(fs = 44100, sf2_path="./soundfont/TimGM6mb.sf2")
         midi_audio = midi_audio.astype(np.float32)
         wav_len = math.ceil(midi_audio.shape[0] / self.length) * self.length
         n_pad = wav_len - midi_audio.shape[0] 
