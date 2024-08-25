@@ -1,3 +1,6 @@
+### 播放说明
+左边乐器栏选择乐器组合，和乐器的渲染音色；下方耳机按钮进行随机生成音乐。
+
 ### 运行说明
 请安装```./user_interface/requirements.txt```中的```python```依赖库后运行```python main.py```运行播放器
 
