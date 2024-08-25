@@ -1,0 +1,81 @@
+0 Acoustic Grand Piano
+1 Bright Acoustic Piano 
+2 Electric Grand Piano
+3 Honky-tonk Piano 
+4 Rhodes Piano
+5 Chorused Piano
+6 Harpsichord
+16 Hammond Organ
+17 Percussive Organ 打击式风琴
+18 Rock Organ 摇滚风琴
+19 Church Organ 教堂风琴
+20 Reed Organ 簧管风琴
+21 Accordian 手风琴
+22 Harmonica 口琴
+23 Tango Accordian
+24 Acoustic Guitar
+25 Acoustic Guitar (steel) 钢弦吉他
+26 Electric Guitar (jazz) 爵士电吉他
+27 Electric Guitar (clean) 清音电吉他
+28 Electric Guitar (muted) 闷音电吉他
+29 Overdriven Guitar 加驱动效果的电吉他
+30 Distortion Guitar 加失真效果的电吉他
+31 Guitar Harmonics 吉他和音
+32 Acoustic Bass
+33 Electric Bass(finger)
+34 Electric Bass(pick)
+35 Fretless Bass 无品贝司
+36 Slap Bass 1
+37 Slap Bass 2 
+39 Synth Bass 2
+40 Violin
+41 Viola 中提琴
+42 Cello 大提琴
+43 Contrabass 低音大提琴
+44 Tremolo Strings 弦乐群颤音音色
+45 Pizzicato Strings 弦乐群拨弦音色
+46 Orchestral Harp 竖琴
+47 Timpani
+48 String Ensemble 1
+49 String Ensemble 2 
+50 Synth Strings 1
+51 Synth Strings 2
+52 Choir Aahs
+53 Voice Oohs 
+54 Synth Voice 
+55 Orchestra Hit 
+56 Trumpet
+57 Trombone 长号
+58 Tuba 大号
+62 Synth Brass 1 合成铜管音色1
+63 Synth Brass 2
+64 Soprano Sax
+65 Alto Sax 
+66 Tenor Sax
+67 Baritone Sax 
+68 Oboe
+69 English Horn 英国管
+70 Bassoon 巴松（大管）
+71 Clarinet
+72 Piccolo
+73 Flute 长笛
+74 Recorder 竖笛
+75 Pan Flute
+76 Bottle Blow
+79 Ocarina 奥卡雷那
+80 Lead 1 (square)
+81 Lead 2 (sawtooth)
+82 Lead 3 (caliope lead) 
+83 Lead 4 (chiff lead) 
+84 Lead 5
+85 Lead 6 (voice) 合成主音6（人声）
+86 Lead 7（平行五度）
+87 Lead 8 (bass+lead)合成主音8（贝司加主音）
+88 Pad 1 (new age)
+89 Pad 2 (warm) 合成音色2 （温暖）
+90 Pad 3 (polysynth)
+91 Pad 4 (choir) 
+92 Pad 5 (bowed)
+93 Pad 6 (metallic) 合成音色6
+94 Pad 7 (halo)
+95 Pad 8 (sweep) 合成音色8
